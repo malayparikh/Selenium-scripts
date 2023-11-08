@@ -10,3 +10,5 @@ FluentWait<WebDriver> wait = new FluentWait<WebDriver>(driver)
    return element;
    }
      });"
+To put it simply, 
+Fluent Wait looks for a web element repeatedly at regular intervals until timeout happens or until the object is found.
