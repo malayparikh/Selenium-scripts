@@ -18,7 +18,7 @@ public class BootstrapModalDialogueBox {
 
 		driver.manage().window().maximize();
 
-		driver.get("https://seller.flipkart.com/sell-online?utm_source=fkwebsite&utm_medium=websitedirect");
+		driver.get("https://www.flipkart.com/");
 
 		// Create webelement for which we have to wait
 
